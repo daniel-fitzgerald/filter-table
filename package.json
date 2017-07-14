@@ -1,6 +1,6 @@
 {
   "name": "@ag-components-react/filter-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "filter-table React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -19,7 +19,7 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "@ag-components-react/internal-components": "0.0.2",
+    "@ag-components-react/internal-components": "0.0.6",
     "fixed-data-table-2": "^0.7.17",
     "react-dimensions": "^1.3.0"
   },
